@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b32cbb7c6c4d34265910a637661699c0",
+    "revision": "cf2fda249e1f6d3beffb930d14cc01d1",
     "url": "/index.html"
   },
   {
-    "revision": "1f939d22b414a1d26bb7",
+    "revision": "7d38b9e1af457524ecbb",
     "url": "/static/css/2.399dd55c.chunk.css"
   },
   {
-    "revision": "25b08e33f7ea9dc55405",
+    "revision": "e7d913e5601eaa820b48",
     "url": "/static/css/main.b0139113.chunk.css"
   },
   {
-    "revision": "1f939d22b414a1d26bb7",
-    "url": "/static/js/2.0f3468c9.chunk.js"
+    "revision": "7d38b9e1af457524ecbb",
+    "url": "/static/js/2.a0f1aed5.chunk.js"
   },
   {
     "revision": "a8f7c27823482815f523db6d3ff5a88d",
-    "url": "/static/js/2.0f3468c9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a0f1aed5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25b08e33f7ea9dc55405",
-    "url": "/static/js/main.f04e8109.chunk.js"
+    "revision": "e7d913e5601eaa820b48",
+    "url": "/static/js/main.d3506804.chunk.js"
   },
   {
     "revision": "4a622ea621e71266c231",
     "url": "/static/js/runtime-main.2b353301.js"
+  },
+  {
+    "revision": "edfaaeb1b5d62b6235d52d1d53ddb3f7",
+    "url": "/static/media/Budapest.edfaaeb1.jpg"
   },
   {
     "revision": "68d0f1e74bcf7fb47590df3202a97518",
@@ -48,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Fill.0fdebeee.svg"
   },
   {
+    "revision": "dac9609e44db7050c75430186e124251",
+    "url": "/static/media/Grenoble.dac9609e.jpg"
+  },
+  {
     "revision": "1fffe6a847dd64e315a51b7a7bf9fab5",
     "url": "/static/media/IUTDeLyon.1fffe6a8.png"
   },
@@ -58,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fde8e8bc5c48a29cf01df1c46e348fae",
     "url": "/static/media/Plane.fde8e8bc.png"
+  },
+  {
+    "revision": "4f7e1255f17dc9d71f08fdceee1d5b56",
+    "url": "/static/media/Rome.4f7e1255.jpg"
   },
   {
     "revision": "ace2a019966577c3c8ef46e924f59f2f",

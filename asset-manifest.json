@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.b0139113.chunk.css",
-    "main.js": "/static/js/main.f04e8109.chunk.js",
-    "main.js.map": "/static/js/main.f04e8109.chunk.js.map",
+    "main.js": "/static/js/main.d3506804.chunk.js",
+    "main.js.map": "/static/js/main.d3506804.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b353301.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b353301.js.map",
     "static/css/2.399dd55c.chunk.css": "/static/css/2.399dd55c.chunk.css",
-    "static/js/2.0f3468c9.chunk.js": "/static/js/2.0f3468c9.chunk.js",
-    "static/js/2.0f3468c9.chunk.js.map": "/static/js/2.0f3468c9.chunk.js.map",
+    "static/js/2.a0f1aed5.chunk.js": "/static/js/2.a0f1aed5.chunk.js",
+    "static/js/2.a0f1aed5.chunk.js.map": "/static/js/2.a0f1aed5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.db3ca1c95467357270e758f4a2beccbe.js": "/precache-manifest.db3ca1c95467357270e758f4a2beccbe.js",
+    "precache-manifest.3ed230183e51ed5b783147265d4c2c8c.js": "/precache-manifest.3ed230183e51ed5b783147265d4c2c8c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.399dd55c.chunk.css.map": "/static/css/2.399dd55c.chunk.css.map",
     "static/css/main.b0139113.chunk.css.map": "/static/css/main.b0139113.chunk.css.map",
-    "static/js/2.0f3468c9.chunk.js.LICENSE.txt": "/static/js/2.0f3468c9.chunk.js.LICENSE.txt",
+    "static/js/2.a0f1aed5.chunk.js.LICENSE.txt": "/static/js/2.a0f1aed5.chunk.js.LICENSE.txt",
+    "static/media/Budapest.jpg": "/static/media/Budapest.edfaaeb1.jpg",
     "static/media/Chart.svg": "/static/media/Chart.68d0f1e7.svg",
     "static/media/ChessPawn.svg": "/static/media/ChessPawn.0ab770a5.svg",
     "static/media/Concordia.svg": "/static/media/Concordia.96578da9.svg",
     "static/media/Dawson.png": "/static/media/Dawson.360cf29c.png",
     "static/media/Fill.svg": "/static/media/Fill.0fdebeee.svg",
+    "static/media/Grenoble.jpg": "/static/media/Grenoble.dac9609e.jpg",
     "static/media/IUTDeLyon.png": "/static/media/IUTDeLyon.1fffe6a8.png",
     "static/media/Me.png": "/static/media/Me.0e77a9b5.png",
     "static/media/Plane.png": "/static/media/Plane.fde8e8bc.png",
+    "static/media/Rome.jpg": "/static/media/Rome.4f7e1255.jpg",
     "static/media/RoyalWestAcademy.png": "/static/media/RoyalWestAcademy.ace2a019.png",
     "static/media/Snake.svg": "/static/media/Snake.753dbebc.svg",
     "static/media/Truck.png": "/static/media/Truck.17080759.png",
@@ -34,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.2b353301.js",
     "static/css/2.399dd55c.chunk.css",
-    "static/js/2.0f3468c9.chunk.js",
+    "static/js/2.a0f1aed5.chunk.js",
     "static/css/main.b0139113.chunk.css",
-    "static/js/main.f04e8109.chunk.js"
+    "static/js/main.d3506804.chunk.js"
   ]
 }

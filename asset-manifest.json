@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.fb29d8b5.chunk.css",
-    "main.js": "/static/js/main.55cd4872.chunk.js",
-    "main.js.map": "/static/js/main.55cd4872.chunk.js.map",
+    "main.js": "/static/js/main.642286ea.chunk.js",
+    "main.js.map": "/static/js/main.642286ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b353301.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b353301.js.map",
     "static/css/2.399dd55c.chunk.css": "/static/css/2.399dd55c.chunk.css",
-    "static/js/2.a0f1aed5.chunk.js": "/static/js/2.a0f1aed5.chunk.js",
-    "static/js/2.a0f1aed5.chunk.js.map": "/static/js/2.a0f1aed5.chunk.js.map",
+    "static/js/2.1a4f2a06.chunk.js": "/static/js/2.1a4f2a06.chunk.js",
+    "static/js/2.1a4f2a06.chunk.js.map": "/static/js/2.1a4f2a06.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6767b3d19652da1c83748634938a2fb1.js": "/precache-manifest.6767b3d19652da1c83748634938a2fb1.js",
+    "precache-manifest.7f53c61e0db9f045fa32eed87d087dbb.js": "/precache-manifest.7f53c61e0db9f045fa32eed87d087dbb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.399dd55c.chunk.css.map": "/static/css/2.399dd55c.chunk.css.map",
     "static/css/main.fb29d8b5.chunk.css.map": "/static/css/main.fb29d8b5.chunk.css.map",
-    "static/js/2.a0f1aed5.chunk.js.LICENSE.txt": "/static/js/2.a0f1aed5.chunk.js.LICENSE.txt",
+    "static/js/2.1a4f2a06.chunk.js.LICENSE.txt": "/static/js/2.1a4f2a06.chunk.js.LICENSE.txt",
     "static/media/Budapest.jpg": "/static/media/Budapest.edfaaeb1.jpg",
     "static/media/Chart.svg": "/static/media/Chart.68d0f1e7.svg",
     "static/media/ChessPawn.svg": "/static/media/ChessPawn.0ab770a5.svg",
@@ -28,17 +28,19 @@
     "static/media/RoyalWestAcademy.png": "/static/media/RoyalWestAcademy.ace2a019.png",
     "static/media/Snake.svg": "/static/media/Snake.753dbebc.svg",
     "static/media/Truck.png": "/static/media/Truck.17080759.png",
+    "static/media/Vote.svg": "/static/media/Vote.8599a8f8.svg",
     "static/media/WorldMap.svg": "/static/media/WorldMap.ac25f028.svg",
     "static/media/chessground.css": "/static/media/wR.57350123.svg",
     "static/media/background.jpeg": "/static/media/background.047cde2a.jpeg",
     "static/media/cloud.svg": "/static/media/cloud.66e563de.svg",
-    "static/media/waterBottle.png": "/static/media/waterBottle.353573fb.png"
+    "static/media/waterBottle.png": "/static/media/waterBottle.353573fb.png",
+    "static/media/webcam.svg": "/static/media/webcam.e34f75b5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b353301.js",
     "static/css/2.399dd55c.chunk.css",
-    "static/js/2.a0f1aed5.chunk.js",
+    "static/js/2.1a4f2a06.chunk.js",
     "static/css/main.fb29d8b5.chunk.css",
-    "static/js/main.55cd4872.chunk.js"
+    "static/js/main.642286ea.chunk.js"
   ]
 }
